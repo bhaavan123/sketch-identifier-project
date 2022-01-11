@@ -1,0 +1,59 @@
+body{
+    background-color: gold;
+
+}
+
+h1{
+    font-family: 'Lobster', cursive; 
+    font-size: 40px;
+    background-color: darkviolet;
+    color: white;
+}
+
+#show_sketch{
+float: right;
+background-color: white;
+color: purple;
+height: 45px;
+width: 125px;
+font-size: 17px;
+}
+
+#show_sketch:hover{
+    background-color: red;
+    border: 2px solid blue;
+    color: blue;
+}
+
+#your_sketch{
+    color: blue;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    margin-top: 30px;
+}
+#confidence{
+    color: blue;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+#sketch_to_be_drawn{
+    font-family: 'Lobster',cursive;
+    font-size: 30px;
+    padding-top: 15px;
+    color: rgb(248, 7, 216);
+}
+
+#score{
+    font-size:30px;
+    font-family: 'Lobster',cursive;
+    margin-left: 5px;
+    color:blueviolet;
+}
+#timer{
+    font-size:30px;
+    font-family: 'Lobster',cursive;
+    margin-right:50;
+    float: right;
+    color: blueviolet;
+    margin-top: 10px;
+}
